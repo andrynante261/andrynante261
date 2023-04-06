@@ -29,15 +29,14 @@ Hi guys, I'm [Andry Nantenaina](https://www.akazdago.com/), a passionate and sof
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 30 mins   █████████████████▓░░░░░░░   70.98 %
-JavaScript   2 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
+TypeScript   5 hrs 41 mins   █████████████████▓░░░░░░░   70.98 %
+JavaScript   1 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
 JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
@@ -59,7 +58,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="andrynante261" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrynante261&show_icons=true&theme=gotham" alt="andrynante261" />
 
 
 
