@@ -1,14 +1,14 @@
 # AkazDago from Madagascar
 
 <a href="https://www.linkedin.com/in/andrynante261/">
-  <img align="left" alt="Andry Nante | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Andry Nante LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/akazdago261/">
   <img align="left" alt="Andry Nante Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 <a href="https://twitter.com/Skybee261">
-  <img align="left" alt="Andry Nante | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Andry Nante Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 
