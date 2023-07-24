@@ -1,16 +1,8 @@
 # AkazDago from Madagascar
 
-<a href="https://www.linkedin.com/in/andrynante261/">
-  <img align="left" alt="Andry Nante LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <a href="https://www.instagram.com/akazdago261/">
   <img align="left" alt="Andry Nante Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
-<a href="https://twitter.com/Skybee261">
-  <img align="left" alt="Andry Nante Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 
 
 Hi guys, I'm [Andry Nantenaina](https://www.akazdago.com/), a passionate and software developer with a history of design collaboration offers sophisticated coding and troubleshooting assistance. Project management and workflow management experience helps ensure the development projects come in, on or before deadline and within budget every time. Writing well designed, testable, efficient code by using best software development practices, Creating website layout/user interfaces by using standard HTML/CSS practices, Integrating data from various back-end services and databases.
